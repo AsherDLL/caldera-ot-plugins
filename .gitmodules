@@ -1,0 +1,15 @@
+[submodule "caldera-iec104"]
+	path = caldera-iec104
+	url = https://github.com/AsherDLL/caldera-iec104
+[submodule "caldera-s7comm"]
+	path = caldera-s7comm
+	url = https://github.com/AsherDLL/caldera-s7comm
+[submodule "caldera-opcua"]
+	path = caldera-opcua
+	url = https://github.com/AsherDLL/caldera-opcua
+[submodule "caldera-mbus"]
+	path = caldera-mbus
+	url = https://github.com/AsherDLL/caldera-mbus
+[submodule "ot-protocol-validation"]
+	path = ot-protocol-validation
+	url = https://github.com/AsherDLL/ot-protocol-validation

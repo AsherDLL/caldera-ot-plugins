@@ -73,3 +73,8 @@ a running process. Run them in a lab, not on production equipment.
 This umbrella repository is Apache-2.0. Each plugin keeps its own license, shown in the
 table above. caldera-iec104 is GPL-3.0 because it bundles the GPL-licensed c104
 library; the others are Apache-2.0.
+
+## Authors
+
+- Asher Davila ([AsherDLL](https://github.com/AsherDLL))
+- Malav Vyas ([MalavVyas](https://github.com/MalavVyas))
